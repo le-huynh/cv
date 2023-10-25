@@ -1,4 +1,4 @@
-[![](./cv_vitae/img/cv_preview.png)](link)
+[![](./cv_vitae/img/cv_preview.png)](https://github.com/le-huynh/cv/blob/main/cv_vitae/cv_vitae.pdf)
 
 
 ### Repo Overview
