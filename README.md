@@ -1,4 +1,4 @@
-[![](./cv_vitae/img/cv_preview.png)]
+![](./cv_vitae/img/cv_preview.png)
 
 
 ### Repo Overview
