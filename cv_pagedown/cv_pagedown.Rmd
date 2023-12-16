@@ -75,10 +75,10 @@ Copenhagen, Denmark
 2023 - Present
 
 - Skills used --- Bioinformatics, R, RMarkdown, Git, GNU Make
-- Analysed Mass Spectrometry-based PhosphoProteomics (MS-PP) data to identify novel druggable oncogenic signaling molecules in a genetically engineered AML mouse model
-- Analyzing MS-PP data from AML patients to identify a broad spectrum of relevant druggable key signalling molecules that can be targeted in a clinical setting for guided personalized AML treatment
+- Analysed Mass Spectrometry-based Proteomics data to identify novel druggable oncogenic signaling molecules in a genetically engineered AML mouse model
+- Analyzing Mass Spectrometry-based Proteomics data from AML patients to identify a broad spectrum of relevant druggable key signalling molecules that can be targeted in a clinical setting for guided personalized AML treatment
 
-### Development spectrum of predictive biomarkers for neuropsychiatric systemic lupus erythematosus (NPSLE)
+### Development of predictive biomarker spectrum for neuropsychiatric systemic lupus erythematosus (NPSLE)
 
 Graduate School of Biomedical Sciences, Nagasaki University
 
