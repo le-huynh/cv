@@ -90,7 +90,7 @@ Nagasaki, Japan
 - Estimated the cutoff concentration of anti-suprabasin antibodies in a huge patient database to predict NPSLE, through utilizing a novel Bayesian model
 - Implemented reproducible workflow for data analysis and data visualization
 
-### Predictive model for toxic cyanobacteria occurrence based on eutrophic and climate data
+### Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data
 
 Graduate School of Engineering, Nagasaki University
 
