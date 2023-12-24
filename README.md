@@ -1,4 +1,4 @@
-![](./cv_vitae/img/cv_preview.png)
+[![](./cv_vitae/img/cv_preview.png)](https://lehuynh.rbind.io/cv/cv_pagedown.pdf)
 
 
 ### Repo Overview
