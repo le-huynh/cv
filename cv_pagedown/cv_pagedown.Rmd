@@ -28,17 +28,16 @@ Contact {#contact}
 
 - <i class="fa fa-envelope"></i> trucly.lehuynh@gmail.com
 - <i class="fa-solid fa-house-chimney"></i> [lehuynh.rbind.io](https://lehuynh.rbind.io/)
-- <i class="fa-brands fa-orcid"></i> [0000-0002-5227-2185](https://orcid.org/0000-0002-5227-2185)
 - <i class="fa fa-github"></i> [github.com/le-huynh](https://github.com/le-huynh)
 - <i class="fa-brands fa-linkedin"></i> [le-huynh-truc-ly](https://www.linkedin.com/in/le-huynh-truc-ly)
-
+- <i class="fa-brands fa-orcid"></i> [0000-0002-5227-2185](https://orcid.org/0000-0002-5227-2185)
 
 Skills {#skills}
 --------------------------------------------------------------------------------
 
 - **Data Science**: Frequentist and Bayesian Inference, Bayesian Modelling, Biostatistics, Bioinformatics (Proteomics data analysis)
 
-- **Programming**: R (advanced: published 1 package [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/package_lehuynh/)), Python, SAS, JAGS, Stan
+- **Programming**: R (advanced: published 1 package [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/package_lehuynh/post/)), Python, SAS, JAGS, Stan
 
 - **Reproducible Report**: Markdown/RMarkdown, LaTeX
 
@@ -66,7 +65,7 @@ This very CV was even crafted using code.
 Projects {data-icon=briefcase data-concise=true}
 --------------------------------------------------------------------------------
 
-### Toward personalized acute myeloid leukemia (AML) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_aml/)
+### Toward personalized acute myeloid leukemia (AML) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_aml/post/)
 
 Biotech Research & Innovation Centre (BRIC), University of Copenhagen
 
@@ -78,7 +77,7 @@ Copenhagen, Denmark
 - Analysed Mass Spectrometry-based Proteomics data to identify novel druggable oncogenic signaling molecules in a genetically engineered AML mouse model
 - Analyzing Mass Spectrometry-based Proteomics data from AML patients to identify a broad spectrum of relevant druggable key signalling molecules that can be targeted in a clinical setting for guided personalized AML treatment
 
-### Development of predictive biomarker spectrum for neuropsychiatric systemic lupus erythematosus (NPSLE) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_npsle/)
+### Development of predictive biomarker spectrum for neuropsychiatric systemic lupus erythematosus (NPSLE) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_npsle/post/)
 
 Graduate School of Biomedical Sciences, Nagasaki University
 
@@ -90,7 +89,7 @@ Nagasaki, Japan
 - Estimated the cutoff concentration of anti-suprabasin antibodies in a huge patient database to predict NPSLE, through utilizing a novel Bayesian model
 - Implemented reproducible workflow for data analysis and data visualization
 
-### Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_cyano/)
+### Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_cyano/post/)
 
 Graduate School of Engineering, Nagasaki University
 
@@ -211,7 +210,7 @@ N/A
 
 N/A
 
-- Translated R cheat sheets (Git & GitHub, gtsummary, RStudio IDE) into Vietnamese [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/cheatsheet_vi_translation/)
+- Translated R cheat sheets (Git & GitHub, gtsummary, RStudio IDE) into Vietnamese [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/cheatsheet_vi_translation/post/)
 
 
 ### Publications
