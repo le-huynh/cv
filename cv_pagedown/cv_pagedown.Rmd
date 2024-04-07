@@ -140,9 +140,9 @@ Ho Chi Minh City, Vietnam
 Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Guest Researcher
+### Visiting Researcher
 
-Graduate School of Engineering, Nagasaki University (Japan)
+Graduate School of Engineering, Nagasaki University, Japan
 
 N/A
 
@@ -161,7 +161,7 @@ N/A
 
 ### Project Researcher
 
-Water Treatment Laboratory, Nagasaki University (Japan)
+Graduate School of Engineering, Nagasaki University, Japan
 
 N/A
 
@@ -169,7 +169,7 @@ N/A
 
 ### Research Assistant
 
-Biological Treatment and Ecological Engineering Laboratory, Nagasaki University (Japan)
+Biological Treatment and Ecological Engineering Laboratory, Nagasaki University, Japan
 
 N/A
 
@@ -177,7 +177,7 @@ N/A
 
 ### Technical Assistant
 
-Biological Treatment and Ecological Engineering Laboratory, Nagasaki University (Japan)
+Biological Treatment and Ecological Engineering Laboratory, Nagasaki University, Japan
 
 N/A
 
@@ -185,7 +185,7 @@ N/A
 
 ### Graduate Teaching Assistant
 
-Graduate School of Engineering, Nagasaki University (Japan)
+Graduate School of Engineering, Nagasaki University, Japan
 
 N/A
 
