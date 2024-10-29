@@ -140,6 +140,14 @@ Ho Chi Minh City, Vietnam
 Work Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
+### Postdoctoral Research Associate
+
+Environmental Institute, University of Virginia, USA
+
+N/A
+
+2024 - Present
+
 ### Visiting Researcher
 
 Graduate School of Engineering, Nagasaki University, Japan
@@ -205,10 +213,20 @@ N/A
 
 - Planetary Health Research Fellowship, Nagasaki University, Japan (2022 – 2023) 
 - Asian Student Foundation Scholarship, Asian Student Foundation, Japan (2017 – 2019) 
-- Full scholarship for Master’s students, Nagasaki University, Japan (2016 – 2018)
-- Monbukagakusho Honors Scholarship for International Students, Japan Student Services Organization (JASSO), Japan (2016 – 2017)
-- The CHEER for Viet Nam Scholarship Award for Innovation and Creativity, CHEER for Viet Nam Organization, USA (2015)
-- Academic Excellence Award, Vietnam National University – Ho Chi Minh City University of Science, Vietnam (2014)
+- Monbukagakusho Honors Scholarship, Japan Student Services Organization, Japan (2016 – 2017)
+- CHEER for Vietnam Scholarship Award for Innovation and Creativity, CHEER for Vietnam Organization, USA (2015)
+
+
+### R Package Development
+
+N/A
+
+N/A
+
+N/A
+
+- **lehuynh** v0.1.1 (published on CRAN): Personal R package, including miscellaneous R functions (for graphics, data import, data transformation, and general utilities) and templates (for exploratory analysis, Bayesian modeling, and crafting scientific manuscripts). <!--**Le-Huynh, T.-L.** (2023)--> [<i class="fa-solid fa-up-right-from-square"></i>](https://le-huynh.github.io/lehuynh/)
+
 
 ### Community engagement
 
@@ -233,6 +251,7 @@ N/A
 - Angalika, M. W. S., Suzuki, S., **Le‑Huynh, T.‑L.**, Itayama, T., Tanaka, W. (2022). Assessing nutrient budget of ungauged catchment using intermittent water quality markers. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 1–10.
 - **Le‑Huynh, T.‑L.**, Iwami, N., Whangchai, N., Gutierrez, R., Shimizu, K., Itayama, T. (2022). Statistical analysis of the effects of environmental factors and fish species on class‑sorted phytoplankton composition in aquaculture ponds in northern Thailand. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 32–38.
 - **Le‑Huynh, T.‑L.**, Itayama, T., Mitsunaga, K., Angalika, M., Suzuki, S. (2022). Application of hurdle Poisson model to predict the abundance of toxic cyanobacteria Microcystis in reservoirs. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 47–51.
+- Huynh, V. V., Nguyen, M. B., Somsri, S., **Le‑Huynh, T.‑L.**, Ueyama, T., Shirayanagi, S., Itayama, T. (2023). Investigation of performance in MBR operated with low DO for low C/N ratio wastewater. *Water, Air, & Soil Pollution*. 235(540).
 
 
 ### Selected Presentations
@@ -245,7 +264,6 @@ N/A
 
 - **Le-Huynh, T.-L.**, Iwami, N., Praphrute, R., Whangchai, N., Gutierrez, R., Shimizu, K., Itayama, T., Statistical analysis on phytoplankton population at hypertrophic ponds in northern Thailand [Oral presentation], *The 57th Annual Conference of Japan Society on Water Environment*, Ehime, Japan, March 2023.
 - **Le-Huynh, T.-L.**, Itayama, T., Mitsunaga, K., Angalika, M., Suzuki, S., Predict toxic cyanobacteria Microcystis in reservoirs by Bayesian hurdle Poisson model [Oral presentation], *1st Campus Asia Program International Symposium*, Nagasaki, Japan, February 2023.
-- **Le-Huynh, T.-L.**, Itayama, T., Mitsunaga, K., Using Bayesian hurdle Poisson model to predict cyanobacterial cell densities in Nagasaki reservoirs [Oral presentation], *The 56th Annual Conference of Japan Society on Water Environment*, Toyama, Japan, March 2022.
 - **Le-Huynh, T.-L.**, Mitsunaga, K., Itayama, T., A Bayesian model for predicting the growth of toxic Microcystis from air temperature and trophic state index [Oral presentation], *The 3rd International Conference on Renewable Energy, Sustainable Environmental and Agricultural Technologies*, Chiangmai, Thailand, December 2021.
 - **Le-Huynh, T.-L.**, Itayama, T., Nguyen, T. H. G., Xia, D., Shimizu, K., Iwami, N., Okano, K., Maseda, H., Praphrute, R., Ruangdet, K., Gutierrez, R., Whangchai, N., Influence of environmental factors on Microcystins degradation bacteria and toxigenic cyanobacteria bloom: a Bayesian approach [Poster presentation], *The NaToxAq Conference on Natural Toxins: Environmental Fate & Safe Water Supply*, Brno, Czech Republic, September 2020.
 
