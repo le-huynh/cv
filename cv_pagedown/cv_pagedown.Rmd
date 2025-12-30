@@ -17,6 +17,11 @@ knit: pagedown::chrome_print
   --main-width: calc(var(--content-width) - var(--sidebar-width));
   --decorator-horizontal-margin: 0.1in;
 }
+
+/* Fix bold rendering in long pagedown documents */
+strong, b {
+font-weight: 700 !important;
+}
 ```
 
 
@@ -37,9 +42,9 @@ Skills {#skills}
 
 - **Data Science**: Frequentist and Bayesian Inference, Bayesian Modelling, Biostatistics, Bioinformatics (Proteomics data analysis)
 
-- **Programming**: R (advanced: published 1 package [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/package_lehuynh/post/)), Python, SAS, JAGS, Stan
+- **Programming**: R (advanced: published 3 R-packages [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/r_code/)), Python, SAS, JAGS, Stan
 
-- **Reproducible Report**: Markdown/RMarkdown, LaTeX
+- **Reproducible Report**: Markdown/RMarkdown, Quarto, LaTeX
 
 - **DevOps**: Git, GNU Make, Docker
 
@@ -56,7 +61,7 @@ Main
 Le-Huynh Truc-Ly {#title}
 --------------------------------------------------------------------------------
 
-I have over five years of experience in data analysis across projects spanning environmental science, health science, and biology. 
+I have over five years of experience in data analysis across projects spanning environmental science, health science, political science, and biology. 
 My passion lies in data analysis, visualization, automation, 
 and creating digital tools for research. 
 This very CV was even crafted using code.
@@ -64,6 +69,38 @@ This very CV was even crafted using code.
 
 Projects {data-icon=briefcase data-concise=true}
 --------------------------------------------------------------------------------
+
+### Climate and Health in Virginia: Investigating Underlying Causes of Climate-Related Diseases and Disparities [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_chva/post/)
+
+Environmental Institute, University of Virginia
+
+Virginia, USA
+
+2024 - Present
+
+- Skills used --- Big data analytics, Meta-analysis, Geospatial health modelling, R, RMarkdown, Git, GNU Make
+- Analyzing large-scale patient-level health records, environmental, and demographic datasets to identify unequal health risks during climate extremes, particularly extreme heat events
+
+### Does Urban Green Space Mitigate Emergency Department Cases During Heat Waves? [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_greenspace/post/)
+
+Environmental Institute, University of Virginia
+
+Virginia, USA
+
+2025 - Present
+
+- Skills used --- Big data analytics, Meta-analysis, Geospatial health modelling, R, RMarkdown, Git, GNU Make
+- Analyzing large-scale patient-level health records, ERA5-Land reanalysis, and landscape metrics to quantify protective effects of neighborhood green spaces during extreme heat events
+
+### Local-global linkages in biodiversity governance [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_kmgbf_01/post/)
+Wyss Academy for Nature, University of Bern
+
+Bern, Switzerland
+
+2024 - Present
+
+- Skills used --- Network analysis, Text Mining analysis, Discourse analysis, R, RMarkdown, Git, GNU Make
+- Analyzing large-scale governance network data to assess whether the global biodiversity regime delivers transformative change
 
 ### Toward personalized acute myeloid leukemia (AML) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_aml/post/)
 
@@ -144,25 +181,25 @@ Work Experience {data-icon=laptop}
 
 Environmental Institute, University of Virginia, USA
 
-N/A
-
 2024 - Present
+
+N/A
 
 ### Visiting Researcher
 
 Graduate School of Engineering, Nagasaki University, Japan
 
-N/A
+2024 - 2025
 
-2024 - Present
+N/A
 
 ### Independent Data Analyst
 
 Self-employed at [lehuynh.rbind.io](https://lehuynh.rbind.io/)
 
-N/A
-
 2021 - Present
+
+N/A
 
 - Services: Reproducible data analysis (in environmental science, health science, biology, bioinformatics), data visualization, cartography, data communication, consulting, R package development
 - Tools: R, SAS, Python, ggplot2, plotly, leaflet, Shiny
@@ -171,37 +208,50 @@ N/A
 
 Graduate School of Engineering, Nagasaki University, Japan
 
-N/A
-
 2023
+
+N/A
 
 ### Research Assistant
 
 Biological Treatment and Ecological Engineering Laboratory, Nagasaki University, Japan
 
-N/A
-
 2018 - 2019
+
+N/A
 
 ### Technical Assistant
 
 Biological Treatment and Ecological Engineering Laboratory, Nagasaki University, Japan
 
-N/A
-
 2017 - 2019
+
+N/A
 
 ### Graduate Teaching Assistant
 
 Graduate School of Engineering, Nagasaki University, Japan
 
-N/A
-
 2018 - 2020
+
+N/A
 
 
 Additional Information {data-icon=folder-open}
 --------------------------------------------------------------------------------
+
+### R Package Development
+
+N/A
+
+N/A
+
+N/A
+
+- **chva.extras**: Supplementary tools for climate and health research in Virginia. **Le-Huynh, T.-L.**, Davis, R., Novicoff, W., DeGuzman, P. (2025) [<i class="fa-solid fa-up-right-from-square"></i>](https://le-huynh.github.io/chva.extras/)
+- **omics4drug**: An R toolkit to facilitate Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis. Nguyen, T.-K. Y., **Le-Huynh, T.-L.** (2025) [<i class="fa-solid fa-up-right-from-square"></i>](https://yen-kim.github.io/omics4drug/)
+- **lehuynh**: Personal R package. **Le-Huynh, T.-L.** (2023) [<i class="fa-solid fa-up-right-from-square"></i>](https://le-huynh.github.io/lehuynh/)
+
 
 ### Honours and awards
 
@@ -217,7 +267,7 @@ N/A
 - CHEER for Vietnam Scholarship Award for Innovation and Creativity, CHEER for Vietnam Organization, USA (2015)
 
 
-### R Package Development
+### Grants and Funding
 
 N/A
 
@@ -225,10 +275,10 @@ N/A
 
 N/A
 
-- **lehuynh** v0.1.1 (published on CRAN): Personal R package, including miscellaneous R functions (for graphics, data import, data transformation, and general utilities) and templates (for exploratory analysis, Bayesian modeling, and crafting scientific manuscripts). <!--**Le-Huynh, T.-L.** (2023)--> [<i class="fa-solid fa-up-right-from-square"></i>](https://le-huynh.github.io/lehuynh/)
+- **Spark Grant**, *Investigator*, funded by Environmental Institute, University of Virginia — USD 30,000 for project *Does Urban Green Space Mitigate Emergency Department Cases During Heat Waves?* [<i class="fa-solid fa-up-right-from-square"></i>](https://environment.virginia.edu/Green-Mitigate-Heat)
 
 
-### Community engagement
+### Service & Community Engagement
 
 N/A
 
@@ -237,6 +287,10 @@ N/A
 N/A
 
 - Translated R cheat sheets (Git & GitHub, gtsummary, RStudio IDE) into Vietnamese [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/cheatsheet_vi_translation/post/)
+- Member of National Center for Faculty Diversity and Development, USA (2025 - present)
+- Member of Virginia Women in High Performance Computing, USA (2024 - present)
+- Member of US National Postdoctoral Association, USA (2024 - present)
+- Member of Japan Society on Water Environment, Japan (2017 - 2023)
 
 
 ### Publications
@@ -247,11 +301,13 @@ N/A
 
 N/A
 
-- Hoang, T. T. T., Ichinose, K., Morimoto, S., Furukawa, K., **Le-Huynh, T.-L.**, Kawakami, A. (2022). Measurement of anti‑suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus. *Clinical Immunology*, 237(March), 1–8.
-- Angalika, M. W. S., Suzuki, S., **Le‑Huynh, T.‑L.**, Itayama, T., Tanaka, W. (2022). Assessing nutrient budget of ungauged catchment using intermittent water quality markers. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 1–10.
-- **Le‑Huynh, T.‑L.**, Iwami, N., Whangchai, N., Gutierrez, R., Shimizu, K., Itayama, T. (2022). Statistical analysis of the effects of environmental factors and fish species on class‑sorted phytoplankton composition in aquaculture ponds in northern Thailand. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 32–38.
-- **Le‑Huynh, T.‑L.**, Itayama, T., Mitsunaga, K., Angalika, M., Suzuki, S. (2022). Application of hurdle Poisson model to predict the abundance of toxic cyanobacteria Microcystis in reservoirs. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 47–51.
+- Nguyen, V. T. H., **Le‑Huynh, T.‑L.**, Gadola, S., Nguyen, Q., Walters, G., Owuor, M. A (2025). Local-Global Linkages in Biodiversity Governance: The Regime Complex of the Convention on Biological Diversity Agenda for Nature Pledges. *Environmental Science & Policy*, 173(November), 104246.
+- Saenchan, S., Shimizu, K., Iwami, N., Angalika, M. W. S., Maseda, H., Minh, N. B., Vu, H. V., **Le‑Huynh, T.‑L.**, Itayama, T. (2025). Effects of pH and ultrasonication for decomposition of Microcystis formed colony in a bloom sample from a reservoir. *Desalination and Water Treatment*, 322, 101203.
 - Huynh, V. V., Nguyen, M. B., Somsri, S., **Le‑Huynh, T.‑L.**, Ueyama, T., Shirayanagi, S., Itayama, T. (2023). Investigation of performance in MBR operated with low DO for low C/N ratio wastewater. *Water, Air, & Soil Pollution*. 235(540).
+- **Le‑Huynh, T.‑L.**, Itayama, T., Mitsunaga, K., Angalika, M., Suzuki, S. (2022). Application of hurdle Poisson model to predict the abundance of toxic cyanobacteria Microcystis in reservoirs. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 47–51.
+- **Le‑Huynh, T.‑L.**, Iwami, N., Whangchai, N., Gutierrez, R., Shimizu, K., Itayama, T. (2022). Statistical analysis of the effects of environmental factors and fish species on class‑sorted phytoplankton composition in aquaculture ponds in northern Thailand. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 32–38.
+- Angalika, M. W. S., Suzuki, S., **Le‑Huynh, T.‑L.**, Itayama, T., Tanaka, W. (2022). Assessing nutrient budget of ungauged catchment using intermittent water quality markers. *Maejo International Journal of Energy and Environmental Communication*, 4(3), 1–10.
+- Hoang, T. T. T., Ichinose, K., Morimoto, S., Furukawa, K., **Le-Huynh, T.-L.**, Kawakami, A. (2022). Measurement of anti‑suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus. *Clinical Immunology*, 237(March), 1–8.
 
 
 ### Selected Presentations
@@ -262,9 +318,18 @@ N/A
 
 N/A
 
+- **Le‑Huynh, T.‑L.**, Novicoff, W., DeGuzman, P., Davis, R., Exploring climate-health disparities in Virginia: Toward AI-driven solutions [Poster presentation], *Environmental Futures Forum 2025*, Charlottesville, Virginia, October 2025.
+<!-- - Huynh, V. V., Nguyen, M. B., Somsri, S., **Le‑Huynh, T.‑L.**, Ueyama, T., Shirayanagi, S., Itayama, T., Investigation of performance in MBR operated with low DO for low C/N ratio wastewater [Oral presentation], *The 58th Annual Conference of Japan Society on Water Environment*, Fukuoka, Japan, March 2024.
+- Itayama, T., **Le-Huynh, T.-L.**, Iwami, N., Whangchai, N., Gutierrez, R., Shimizu, K., Data science approach on the occurrence and proliferation of cyanobacteria in eutrophic water bodies [Keynote speech], *The 5th International Conference on Renewable Energy, Sustainable Environmental and Agricultural and Artificial Intelligence Technologies*, Bangkok, Thailand, December 2023. -->
 - **Le-Huynh, T.-L.**, Iwami, N., Praphrute, R., Whangchai, N., Gutierrez, R., Shimizu, K., Itayama, T., Statistical analysis on phytoplankton population at hypertrophic ponds in northern Thailand [Oral presentation], *The 57th Annual Conference of Japan Society on Water Environment*, Ehime, Japan, March 2023.
+<!-- - Huynh, V. V., Nguyen, B. M., **Le-Huynh, T.-L.**, Ueyama, T., Satoshi, S., Itayama, T., Effects of low dissolved oxygen on membrane bioreactor treatment performance and microbial community [Oral presentation], *The 57th Annual Conference of Japan Society on Water Environment*, Ehime, Japan, March 2023. -->
 - **Le-Huynh, T.-L.**, Itayama, T., Mitsunaga, K., Angalika, M., Suzuki, S., Predict toxic cyanobacteria Microcystis in reservoirs by Bayesian hurdle Poisson model [Oral presentation], *1st Campus Asia Program International Symposium*, Nagasaki, Japan, February 2023.
+<!-- - Hoang, T. T. T., Ichinose, K., Morimoto, S., Furukawa, K., **Le-Huynh, T.-L.**, Kawakami, A., Measurement of anti-suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus [Poster presentation], *Annals of the Rheumatic Diseases*, 2022;81:658. -->
+- **Le-Huynh, T.-L.**, Itayama, T., Mitsunaga, K., Using Bayesian hurdle Poisson model to predict cyanobacterial cell densities in Nagasaki reservoirs [Oral presentation], *The 56th Annual Conference of Japan Society on Water Environment*, Toyama, Japan, March 2022.
+<!-- - Itayama, T., **Le-Huynh, T.-L.**, Suzuki, S., Numerical experiments on the response characteristics and predictability of stochastic lake ecosystem models [Oral presentation], *The 56th Annual Conference of Japan Society on Water Environment*, Toyama, Japan, March 2022. -->
 - **Le-Huynh, T.-L.**, Mitsunaga, K., Itayama, T., A Bayesian model for predicting the growth of toxic Microcystis from air temperature and trophic state index [Oral presentation], *The 3rd International Conference on Renewable Energy, Sustainable Environmental and Agricultural Technologies*, Chiangmai, Thailand, December 2021.
 - **Le-Huynh, T.-L.**, Itayama, T., Nguyen, T. H. G., Xia, D., Shimizu, K., Iwami, N., Okano, K., Maseda, H., Praphrute, R., Ruangdet, K., Gutierrez, R., Whangchai, N., Influence of environmental factors on Microcystins degradation bacteria and toxigenic cyanobacteria bloom: a Bayesian approach [Poster presentation], *The NaToxAq Conference on Natural Toxins: Environmental Fate & Safe Water Supply*, Brno, Czech Republic, September 2020.
+- **Le-Huynh, T.-L.**, Giang, N. T. H., Xia, D., Shimizu, K., Iwami, N., Okano, K., Maseda, H., Reunkaew, P., Whangchai, N., Itayama, T., Bayesian analysis on environmental factors for standing crops of microcystin, synthesis gene and degradation gene in eutrophicated ponds in Thailand [Oral presentation], *The 53rd Annual Conference of Japan Society on Water Environment*, Yamanashi, Japan, March 2019.
+- **Le-Huynh, T.-L.**, Huong, N. T. G., Xia, D., Shimizu, K., Iwami, N., Okano, K., Maseda, H., Reunkaew, P., Whangchai, N., Itayama, T., Quantitative analysis on cyanobacteria related genes presence in aquaculture ponds at different elevation in Thailand [Oral presentation], *The 52nd Annual Conference of Japan Society on Water Environment*, Hokkaido, Japan, March 2018.
 
 
