@@ -12,3 +12,6 @@
 	|
 	+- data/        # data for building CV
 
+ ### Reference
+ [Write your CV](https://www.anabellelaurent.com/slides/rladies_pagedown/cvwithpagedown#1) by Anabelle Laurent.
+
