@@ -70,7 +70,7 @@ This very CV was even crafted using code.
 Projects {data-icon=briefcase data-concise=true}
 --------------------------------------------------------------------------------
 
-### Climate and Health in Virginia: Investigating Underlying Causes of Climate-Related Diseases and Disparities [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_chva/post/)
+### Climate and Health in Virginia: Investigating Underlying Causes of Climate-Related Diseases and Disparities [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_chva)
 
 Environmental Institute, University of Virginia
 
@@ -81,7 +81,7 @@ Virginia, USA
 Skills used --- Geospatial health modeling, Big data analytics, R, RMarkdown, Git, GNU Make, R package development  
 - Analyzing large-scale patient-level health records, environmental, and demographic datasets to identify unequal health risks during climate extremes, particularly extreme heat events
 
-### Does Urban Green Space Mitigate Emergency Department Cases During Heat Waves? [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_greenspace/post/)
+### Does Urban Green Space Mitigate Emergency Department Cases During Heat Waves? [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_greenspace)
 
 Environmental Institute, University of Virginia
 
@@ -92,7 +92,7 @@ Virginia, USA
 Skills used --- Geospatial health modeling, Big data analytics, R, RMarkdown, Git, GNU Make, Parallel computing  
 - Analyzing large-scale patient-level health records, ERA5-Land reanalysis, and landscape metrics to quantify protective effects of neighborhood green spaces during extreme heat events
 
-### Local-global linkages in biodiversity governance [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_kmgbf_01/post/)
+### Local-global linkages in biodiversity governance [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_kmgbf_01)
 Collaboration with Wyss Academy for Nature, University of Bern
 
 Bern, Switzerland
@@ -102,7 +102,7 @@ Bern, Switzerland
 Skills used --- Network analysis, Text Mining analysis, Discourse analysis, R, RMarkdown, Git, GNU Make  
 - Analyzing large-scale governance network data to assess whether the global biodiversity regime delivers transformative change
 
-### Toward personalized acute myeloid leukemia (AML) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_aml/post/)
+### Toward personalized acute myeloid leukemia (AML) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_aml)
 
 Collaboration with Biotech Research & Innovation Centre, University of Copenhagen
 
@@ -116,7 +116,7 @@ Skills used --- Bioinformatics, R, R package development, RMarkdown, Git, GNU Ma
 <!-- - Analysed Mass Spectrometry-based Proteomics data to identify novel druggable oncogenic signaling molecules in a genetically engineered AML mouse model  -->
 <!-- - Analyzing Mass Spectrometry-based Proteomics data from AML patients to identify a broad spectrum of relevant druggable key signalling molecules that can be targeted in a clinical setting for guided personalized AML treatment -->
 
-### Development of predictive biomarker spectrum for neuropsychiatric systemic lupus erythematosus (NPSLE) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_npsle/post/)
+### Development of predictive biomarker spectrum for neuropsychiatric systemic lupus erythematosus (NPSLE) [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_npsle)
 
 Collaboration with Graduate School of Biomedical Sciences, Nagasaki University
 
@@ -128,7 +128,7 @@ Skills used --- Bayesian modeling, Biostatistics, R, SAS, RMarkdown, LaTeX, Git,
 - Estimated the cutoff concentration of anti-suprabasin antibodies in a huge patient database to predict NPSLE, through utilizing a novel Bayesian model  
 - Implemented reproducible workflow for data analysis and data visualization
 
-### Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_cyano/post/)
+### Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/proj_cyano)
 
 Graduate School of Engineering, Nagasaki University
 
@@ -303,7 +303,7 @@ N/A
 N/A
 
 - Peer reviewer for Journal Of Exposure Science And Environmental Epidemiology (2026), Respiratory Research (2026)
-- Translated R cheat sheets (Git & GitHub, gtsummary, RStudio IDE) into Vietnamese [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/cheatsheet_vi_translation/post/)
+- Translated R cheat sheets (Git & GitHub, gtsummary, RStudio IDE) into Vietnamese [<i class="fa-solid fa-up-right-from-square"></i>](https://lehuynh.rbind.io/project/cheatsheet_vi_translation)
 - Member of European Geosciences Union - EGU (2026)
 - Member of National Center for Faculty Diversity and Development, USA (2025 - present)
 - Member of Virginia Women in High Performance Computing, USA (2024 - present)
